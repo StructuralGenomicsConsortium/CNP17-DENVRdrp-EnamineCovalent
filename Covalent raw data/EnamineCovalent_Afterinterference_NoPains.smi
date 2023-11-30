@@ -1,0 +1,8 @@
+O=C(N1[C@H](C(=O)O)[C@@H]2[C@H](C1)CC2)C=C	Compound 1
+FC(F)(F)[C@@]1(C(=O)O)CN(C(=O)C=C)CCC1	Compound 2
+FC1(F)[C@H](CCN(CC1)C(=O)C=C)CC(=O)O	Compound 3
+ClCC(=O)N(c1cc(C#C)ccc1)Cc1occc1	Compound 4
+O=C(O)c1n[nH]c2c1c(ccc2)/C=C(\C#N)/C(=O)NCCCC	Compound 6
+Brc1c(S(=O)(=O)F)ncc(c1)Cl	Compound 7
+S(=O)(=O)(F)c1nc2c(cc1)cccc2	Compound 8
+S(=O)(=O)(F)c1ncc(cc1)S(=O)(=O)N(C)C	Compound 9
