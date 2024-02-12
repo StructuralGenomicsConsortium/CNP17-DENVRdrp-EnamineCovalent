@@ -1,6 +1,6 @@
 # CNP17-DENVRdrp-EnamineCovalent
 
-An [SGC](https://www.thesgc.org/) Open Chemical Networks Project (number 17) devoted to the DENV Rdrp, focusing specifically on identifying a possible hit in the ChEMBL database.
+An [SGC](https://www.thesgc.org/) Open Chemical Networks Project (number 17) devoted to the DENV Rdrp, focusing specifically on identifying a possible hit in a covalent enamine library.
 
 You contribute synthetic chemistry and in return the SGC offers biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. Everything is open, with all content governed by a CC-BY-4.0 licence.
 
