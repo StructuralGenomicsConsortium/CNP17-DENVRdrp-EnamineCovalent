@@ -4,6 +4,9 @@ An [SGC](https://www.thesgc.org/) Open Chemical Networks Project (number 17) dev
 
 * **For the science background**, head to the [Wiki page](https://github.com/StructuralGenomicsConsortium/CNP17-DENVRdrp-EnamineCovalent/wiki) to check out the living paper that is being written there.
 
+## Are you answering our call?  
+Please go to [issues](https://github.com/StructuralGenomicsConsortium/CNP17-DENVRdrp-EnamineCovalent/issues/1) for more details
+
 ## General information 
 
 You contribute synthetic chemistry and in return the SGC offers biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. Everything is open, with all content governed by a CC-BY-4.0 licence. If this sounds interesting, and you agree to the simple [RULES](https://www.thesgc.org/sgc-open-chemistry-networks/terms-of-use), you can get started.
